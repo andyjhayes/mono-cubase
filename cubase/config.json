@@ -1,0 +1,25 @@
+{
+    "name": "Cubase",
+    "id": "com.steinberg.cubase",
+    "bundle": [
+        "com.steinberg.cubase11",
+        "com.steinberg.cubase11v5",
+        "com.steinberg.cubase12"
+    ],
+    "exe": [
+    	"cubase le ai elements 11.exe", 
+    	"cubase artist 11.exe", 
+    	"cubase pro 11.exe",
+    	"cubase11.exe",
+    	"cubase le ai elements 11.5.exe", 
+    	"cubase artist 11.5.exe", 
+    	"cubase pro 11.5.exe",
+    	"cubase11.5.exe",
+    	"cubase le ai elements 12.exe", 
+    	"cubase artist 12.exe", 
+    	"cubase pro 12.exe",
+    	"cubase12.exe"
+    ],
+    "connection": [],
+    "additionalActions": ["midi"]
+}
