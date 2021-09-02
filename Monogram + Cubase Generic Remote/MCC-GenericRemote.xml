@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<remotedescription version="1.1">
+<ctrltable name="Monogram Creative Console">
+<ctrl><name>MCC Relative 1</name><stat>176</stat><chan>10</chan><addr>3</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 2</name><stat>176</stat><chan>10</chan><addr>9</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 3</name><stat>176</stat><chan>10</chan><addr>14</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 4</name><stat>176</stat><chan>10</chan><addr>15</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 5</name><stat>176</stat><chan>10</chan><addr>28</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 6</name><stat>176</stat><chan>10</chan><addr>29</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 7</name><stat>176</stat><chan>10</chan><addr>30</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 8</name><stat>176</stat><chan>10</chan><addr>31</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 9</name><stat>176</stat><chan>10</chan><addr>85</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 10</name><stat>176</stat><chan>10</chan><addr>86</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 11</name><stat>176</stat><chan>10</chan><addr>87</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 12</name><stat>176</stat><chan>10</chan><addr>89</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 13</name><stat>176</stat><chan>10</chan><addr>90</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 14</name><stat>176</stat><chan>10</chan><addr>102</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 15</name><stat>176</stat><chan>10</chan><addr>103</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 16</name><stat>176</stat><chan>10</chan><addr>104</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 17</name><stat>176</stat><chan>10</chan><addr>105</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 18</name><stat>176</stat><chan>10</chan><addr>106</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 19</name><stat>176</stat><chan>10</chan><addr>107</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 20</name><stat>176</stat><chan>10</chan><addr>108</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 21</name><stat>176</stat><chan>10</chan><addr>109</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 22</name><stat>176</stat><chan>10</chan><addr>110</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 23</name><stat>176</stat><chan>10</chan><addr>111</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Relative 24</name><stat>176</stat><chan>10</chan><addr>112</addr><max>127</max><flags>5</flags></ctrl>
+<ctrl><name>MCC Absolute 1</name><stat>176</stat><chan>11</chan><addr>3</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 2</name><stat>176</stat><chan>11</chan><addr>9</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 3</name><stat>176</stat><chan>11</chan><addr>14</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 4</name><stat>176</stat><chan>11</chan><addr>15</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 5</name><stat>176</stat><chan>11</chan><addr>28</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 6</name><stat>176</stat><chan>11</chan><addr>29</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 7</name><stat>176</stat><chan>11</chan><addr>30</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 8</name><stat>176</stat><chan>11</chan><addr>31</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 9</name><stat>176</stat><chan>11</chan><addr>85</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 10</name><stat>176</stat><chan>11</chan><addr>86</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 11</name><stat>176</stat><chan>11</chan><addr>87</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 12</name><stat>176</stat><chan>11</chan><addr>89</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 13</name><stat>176</stat><chan>11</chan><addr>90</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 14</name><stat>176</stat><chan>11</chan><addr>102</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 15</name><stat>176</stat><chan>11</chan><addr>103</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 16</name><stat>176</stat><chan>11</chan><addr>104</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 17</name><stat>176</stat><chan>11</chan><addr>105</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 18</name><stat>176</stat><chan>11</chan><addr>106</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 19</name><stat>176</stat><chan>11</chan><addr>107</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 20</name><stat>176</stat><chan>11</chan><addr>108</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 21</name><stat>176</stat><chan>11</chan><addr>109</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 22</name><stat>176</stat><chan>11</chan><addr>110</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 23</name><stat>176</stat><chan>11</chan><addr>111</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Absolute 24</name><stat>176</stat><chan>11</chan><addr>112</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 1</name><stat>176</stat><chan>10</chan><addr>80</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 2</name><stat>176</stat><chan>10</chan><addr>81</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 3</name><stat>176</stat><chan>10</chan><addr>82</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 4</name><stat>176</stat><chan>10</chan><addr>83</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 5</name><stat>176</stat><chan>11</chan><addr>80</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 6</name><stat>176</stat><chan>11</chan><addr>81</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 7</name><stat>176</stat><chan>11</chan><addr>82</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 8</name><stat>176</stat><chan>11</chan><addr>83</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 9</name><stat>176</stat><chan>12</chan><addr>3</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 10</name><stat>176</stat><chan>12</chan><addr>9</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 11</name><stat>176</stat><chan>12</chan><addr>14</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 12</name><stat>176</stat><chan>12</chan><addr>15</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 13</name><stat>176</stat><chan>12</chan><addr>28</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 14</name><stat>176</stat><chan>12</chan><addr>29</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 15</name><stat>176</stat><chan>12</chan><addr>30</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 16</name><stat>176</stat><chan>12</chan><addr>31</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 17</name><stat>176</stat><chan>12</chan><addr>80</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 18</name><stat>176</stat><chan>12</chan><addr>81</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 19</name><stat>176</stat><chan>12</chan><addr>82</addr><max>127</max><flags>1</flags></ctrl>
+<ctrl><name>MCC Push 20</name><stat>176</stat><chan>12</chan><addr>83</addr><max>127</max><flags>1</flags></ctrl>
+</ctrltable>
+<bank name="Group 1">
+<entry ctrl="MCC Relative 1">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl1</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 2">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl2</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 3">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl3</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 4">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl4</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 5">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl5</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 6">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl6</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 7">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl7</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 8">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl8</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 9">
+<value><device>Mixer</device><chan>-2</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 10">
+<value><device>Mixer</device><chan>-2</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 11">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot1:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 12">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot2:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 13">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot3:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 14">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot4:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 15">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot5:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 16">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot6:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 17">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot7:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 18">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot8:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Relative 19">
+<value><device>Mixer</device><chan>14</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 1">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl1</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 2">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl2</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 3">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl3</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 4">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl4</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 5">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl5</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 6">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl6</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 7">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl7</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 8">
+<value><device>Mixer</device><chan>-2</chan><name>quickControls:QuickControl8</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 9">
+<value><device>Mixer</device><chan>-2</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 10">
+<value><device>Mixer</device><chan>-2</chan><name>panner:panX</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 11">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot1:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 12">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot2:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 13">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot3:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 14">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot4:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 15">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot5:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 16">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot6:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 17">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot7:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 18">
+<value><device>Mixer</device><chan>-2</chan><name>sends/slot8:volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Absolute 19">
+<value><device>Mixer</device><chan>14</chan><name>volume</name><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Push 1">
+<value><device>Mixer</device><chan>-2</chan><name>mute</name><flags>257</flags></value>
+</entry>
+<entry ctrl="MCC Push 2">
+<value><device>Mixer</device><chan>-2</chan><name>solo</name><flags>257</flags></value>
+</entry>
+<entry ctrl="MCC Push 3">
+<value><device>Mixer</device><chan>-2</chan><name>readEnable</name><flags>257</flags></value>
+</entry>
+<entry ctrl="MCC Push 4">
+<value><device>Mixer</device><chan>-2</chan><name>writeEnable</name><flags>257</flags></value>
+</entry>
+<entry ctrl="MCC Push 5">
+<command><category>Transport</category><action>StartStop</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 6">
+<command><category>Transport</category><action>Cycle</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 7">
+<command><category>Transport</category><action>Record</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 8">
+<command><category>Transport</category><action>Return to Zero</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 9">
+<command><category>Transport</category><action>Nudge -1 Frame</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 10">
+<command><category>Transport</category><action>Nudge +1 Frame</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 11">
+<command><category>Transport</category><action>Nudge Cursor Left</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 12">
+<command><category>Transport</category><action>Nudge Cursor Right</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 13">
+<command><category>Transport</category><action>Step Back Bar</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 14">
+<command><category>Transport</category><action>Step Bar</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 15">
+<value><device>Transport</device><chan>-1</chan><tag>4018</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Push 16">
+<value><device>Transport</device><chan>-1</chan><tag>4017</tag><flags>0</flags></value>
+</entry>
+<entry ctrl="MCC Push 17">
+<command><category>Zoom</category><action>Zoom Out</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 18">
+<command><category>Zoom</category><action>Zoom In</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 19">
+<command><category>Zoom</category><action>Zoom Out Vertically</action><flags>1</flags></command>
+</entry>
+<entry ctrl="MCC Push 20">
+<command><category>Zoom</category><action>Zoom In Vertically</action><flags>1</flags></command>
+</entry>
+</bank>
+</remotedescription>
