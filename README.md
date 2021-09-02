@@ -14,7 +14,7 @@ This is a collection of Monogram assignments for Steinberg Cubase, version 11 or
 
 ### Add Monogram as Generic Remote to Cubase ###
 
-1. Download and unzip latest release (select Download Code at top right); copy the unzipped folder to a safe location like your Documents folder.
+1. [Download and unzip latest release](https://github.com/andyjhayes/mono-cubase/releases); copy the unzipped folder to a safe location like your Documents folder.
 2. Locate <code>Monogram + Cubase Generic Remote > MCC-GenericRemote.xml</code> inside downloaded package.
 3. In the Cubase menu bar, go to Studio > Studio Setup. Select or add a Generic Remote and select 'Import'.
 4. Import the <code>MCC-GenericRemote.xml</code> file as located in step 2 above.
