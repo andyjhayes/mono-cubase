@@ -5,7 +5,7 @@ This is a collection of Monogram assignments for Steinberg Cubase, version 11 or
 ### Prerequisites ###
 
 - [Monogram Creator](https://monogramcc.com/download/)
-- [Monogram Creative Console](https://monogramcc.com/) (Palette Gear core module is not supported)
+- [Monogram Creative Console](https://monogramcc.com/) (Not developed or tested with Palette Gear)
 - [Steinberg Cubase](https://captureone.com/) (Version 11 or later required)
 
 ---
